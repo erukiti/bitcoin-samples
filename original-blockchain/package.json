@@ -1,0 +1,10 @@
+{
+  "name": "blockchain",
+  "private": true,
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "jest": "^23.4.1"
+  }
+}
